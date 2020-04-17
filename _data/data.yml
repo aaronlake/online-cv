@@ -24,6 +24,13 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+    certifications:
+      - item: AWS Solutions Architect Associate
+        link: 
+      
+      - item: AWS Cloud Practioner
+        link: 
+
     languages:
       - idiom: English
         level: Native
@@ -131,10 +138,10 @@ skills:
 
     toolset:
       - name: Amazon Web Services
-        level: 80%
+        level: 85%
 
       - name: Microsoft Azure
-        level: 75%
+        level: 70%
 
       - name: SAN Storage
         level: 95%
