@@ -48,26 +48,36 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I've been in in technology for 20+ years having done everything from
-        backup administration, Linux/UNIX administration, storage,
-        virtualization hardware &amp; software sales to Product Management and
-        Consulting. I've built a Public Cloud practice, Data Replication and
-        Disaster Recovery solutions and sold a ton of hardware and cloud services.
-        My superpower is driving to the core of my customers' needs and designing
-        or building the best solution.
+        My 20+ year career in IT has taken a winding path. I've built a startup
+        from ground-zero using dozens of AWS services, I split my startup time
+        helping a growing AWS Professional Services partner build their pre-sales
+        and product practices while helping clients begin or improve their cloud
+        strategy. I built a Public Cloud practice for a traditional hosting 
+        provider, ran numerous successful products from inception to MVP. I was
+        a pre-sales architect for 5+ years, and previous to that did everything
+        from linux administration and early-days devops to bash/Python/Ruby
+        programming/scripting.
+
+        My passion is in the startup and early-stage company growth phase, but in
+        this day and age, everyone is trying to reset to accommodate changes in the
+        industry. My goal is to be a champion of change, while implementing best
+        practices for security, compliance and cost control.
 experiences:
-    - role: Founder - Architect Lead, Product Development, Developer
+    - role: Co-Founder / Software Architect
       time: 2020 - Present
       company: Tenacity Cloud
       details: |
-        Tenacity is a Cloud Compliance, Governance and Cost Management tool. I was
-        employee #3 and led all efforts on designing and building the platform from
-        concept to MVP, to Seed funding round. Tenacity is built 100% serverless in
-        AWS using cloud native tools. Fully deployed using IaC, automated CI/CD via
-        GitHub Actions, linted and tested.
-          - Concept to MVP, to funding round
-          - Terraform, Docker, CI/CD, Golang, Vuejs
-          - Serverless AWS
+        Tenacity was born from a desire to consolidate security, compliance,
+        best practice guard-rails and cost management in to a single tool. As a
+        co-founder I helped build an idea into an MVP and successful 1.0 release
+        which led to a $3M seed funding round. My primary role is Software
+        Architecture but participated in every aspect of the company
+        from development &amp; data strategy to sales, marketing &amp; product.
+          - AWS Infrastructure Lead
+          - Lambda/EC2/API Gateway/ECS/RDS/DynamoDB/Glue/Athena
+          - Golang/Vue.js/Python/Bash
+          - Terraform &amp; CloudFormation
+          - Security/Compliance Ops implementation &amp; best practices
     - role: AWS Practice Lead
       time: 2020 - Present
       company: North Labs
@@ -84,15 +94,21 @@ experiences:
     - role: Cloud &amp; Product Consultant
       time: 2018 - Present
       company: Self Employed
+    - role: AWS Practice Lead &amp; Product Manager
+      time: 2020 - Present
+      company: North Labs
       details: |
-        On a consultative basis I've provided migration assistance with focuses on
-        cost containment, governance and security. Building upon a cloud-smart
-        foundation I've helped companies adopt Infrastructure as Code, DevOps and 
-        Compliance as Code as well as introducing serverless technology coupled with
-        a fully automated CI/CD pipeline.
-          - Terraform, Ansible, Docker implementation
-          - Serverless technologies in AWS &amp; Azure
-          - DevOps &amp; Security/Compliance Ops implementation &amp; best practices
+        North Labs is a growing AWS APN partner with exceptional Cloud talent and
+        a leader who is on Amazon's radar. Though growing, sales and GTM strategy
+        was championed by North's owner primarily. I joined through a relationship
+        with Tenacity to augment their sales team and productize their exceptional
+        talent pool. My role at North was to fill the pre-sales architectural role,
+        productize North's services offering as well as roll my sleeves up on a
+        number of accounts to augment existing resources.
+          - Service Offering Productization
+          - Terraform/CloudFormation/AWS Best Practice Implementation
+          - Perform AWS Well Architected Reviews
+          - Security/Compliance Ops implementation &amp; best practices
     - role: Senior Product Manager
       time: 2019 - 2020
       company: Otava LLC., Ann Arbor, MI
@@ -101,7 +117,7 @@ experiences:
         requirements, price modeling and go to market for numerous Otava Cloud
         Services. Completed MVP to product launch of Public Cloud Transformation,
         Business Continuity and cloud adjacent services. Built new product
-        development processes using an agile approach, onboarded development,
+        development processes using an agile approach, on-boarded development,
         marketing and operations teams to leverage Atlassian tools to
         track and report development processes to sales and leadership.
           - Built AWS and Azure Digital Cloud Transformation practice
