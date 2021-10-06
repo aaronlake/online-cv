@@ -56,6 +56,31 @@ career-profile:
         My superpower is driving to the core of my customers' needs and designing
         or building the best solution.
 experiences:
+    - role: Founder - Architect Lead, Product Development, Developer
+      time: 2020 - Present
+      company: Tenacity Cloud
+      details: |
+        Tenacity is a Cloud Compliance, Governance and Cost Management tool. I was
+        employee #3 and led all efforts on designing and building the platform from
+        concept to MVP, to Seed funding round. Tenacity is built 100% serverless in
+        AWS using cloud native tools. Fully deployed using IaC, automated CI/CD via
+        GitHub Actions, linted and tested.
+          - Concept to MVP, to funding round
+          - Terraform, Docker, CI/CD, Golang, Vuejs
+          - Serverless AWS
+    - role: AWS Practice Lead
+      time: 2020 - Present
+      company: North Labs
+      details: |
+        While building Tenacity, one of our co-founders, where the Tenacity idea
+        originated, had a need for someone to run Engineering and AWS partner 
+        goals. Since Tenacity was pre-funding the fit worked well. I managed upwards
+        of a dozen engineers, project management, served as a pre-sales architect,
+        built FAST and Infrastructure as Code Jumpstart products. Served as implementation
+        and hands on keyboard engineer on specific client initiatives.
+          - Product lead on FAST &amp; Infrastructure as Code Jumpstart
+          - AWS Practice Lead - Focus on Engineering &amp; Partner Initiatives
+          - DevOps &amp; product implementation, cloud migration, migration planning
     - role: Cloud &amp; Product Consultant
       time: 2018 - Present
       company: Self Employed
