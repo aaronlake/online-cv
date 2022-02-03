@@ -49,19 +49,15 @@ career-profile:
     title: Career Profile
     summary: |
         My 20+ year career in IT has taken a winding path. I've built a startup
-        from ground-zero using dozens of AWS services, I split my startup time
+        from ground-zero using serverless AWS services, I split my startup time
         helping a growing AWS Professional Services partner build their pre-sales
-        and product practices while helping clients begin or improve their cloud
-        strategy. I built a Public Cloud practice for a traditional hosting 
-        provider, ran numerous successful products from inception to MVP. I was
-        a pre-sales architect for 5+ years, and previous to that did everything
+        and product practices while leading clients down their cloud journey. I
+        built a Public Cloud practice for a traditional hosting provider, ran
+        numerous successful products from inception to MVP. I was a pre-sales 
+        Solutions Architect for 8+ years, and previous to that did everything
         from linux administration and early-days devops to bash/Python/Ruby
         programming/scripting.
 
-        My passion is in the startup and early-stage company growth phase, but in
-        this day and age, everyone is trying to reset to accommodate changes in the
-        industry. My goal is to be a champion of change, while implementing best
-        practices for security, compliance and cost control.
 experiences:
     - role: Co-Founder / Software Architect
       time: 2020 - Present
@@ -69,10 +65,10 @@ experiences:
       details: |
         Tenacity was born from a desire to consolidate security, compliance,
         best practice guard-rails and cost management in to a single tool. As a
-        co-founder I helped build an idea into an MVP and successful 1.0 release
-        which led to a $3M seed funding round. My primary role is Software
-        Architecture but participated in every aspect of the company
-        from development &amp; data strategy to sales, marketing &amp; product.
+        co-founder I helped turn an idea into an MVP, successful 1.0 release
+        which led to a $3M seed funding round. My primary role is Infrastructure
+        Architecture/DevOps/Automation but participated in every aspect of the
+        company from development &amp; data strategy to sales, marketing &amp; product.
           - AWS Infrastructure Lead
           - Lambda/EC2/API Gateway/ECS/RDS/DynamoDB/Glue/Athena
           - Golang/Vue.js/Python/Bash
@@ -85,12 +81,12 @@ experiences:
         While building Tenacity, one of our co-founders, where the Tenacity idea
         originated, had a need for someone to run Engineering and AWS partner 
         goals. Since Tenacity was pre-funding the fit worked well. I managed upwards
-        of a dozen engineers, project management, served as a pre-sales architect,
-        built FAST and Infrastructure as Code Jumpstart products. Served as implementation
-        and hands on keyboard engineer on specific client initiatives.
-          - Product lead on FAST &amp; Infrastructure as Code Jumpstart
+        of a dozen engineers, project management, served as pre-sales architect and 
+        was hands on keyboard on specific key client initiatives.
+          - Service Offering Productization
           - AWS Practice Lead - Focus on Engineering &amp; Partner Initiatives
           - DevOps &amp; product implementation, cloud migration, migration planning
+          - Terraform/CloudFormation/AWS Well Architected Design and Implementation
     - role: Cloud &amp; Product Consultant
       time: 2018 - Present
       company: Self Employed
