@@ -30,6 +30,9 @@ sidebar:
       
       - item: AWS Cloud Practioner
         link: 
+      
+      - item: HCP Terraform Associate
+        link:
 
     languages:
       - idiom: English
@@ -59,8 +62,25 @@ career-profile:
         programming/scripting.
 
 experiences:
-    - role: Co-Founder / Software Architect
-      time: 2020 - Present
+    - role: Senior Customer Solutions Architect
+      time: 2023 - present
+      company: AHEAD
+      details: |
+        Serve as a pre-sales technical architect working within the Michigan 
+        region. 
+
+    - role: Senior Customer Success Architect (Globals)
+      time: 2022 - 2023
+      company: HashiCorp
+      details: |
+        Originally hired to be a CSA generalist, a restructuring of the CSA organization
+        led to me quickly transitioning to a Terraform Enterprise/Cloud specialist.
+        My clients were the largest banks and retailers in the world. My goal was
+        to help speed adoption of HCP service offerings through best practices,
+        demos, product updates and adoption workshops.
+        
+    - role: Co-Founder / Software & Infrastructure Architect
+      time: 2020 - 2022 
       company: Tenacity Cloud
       details: |
         Tenacity was born from a desire to consolidate security, compliance,
@@ -74,6 +94,7 @@ experiences:
           - Golang/Vue.js/Python/Bash
           - Terraform &amp; CloudFormation
           - Security/Compliance Ops implementation &amp; best practices
+
     - role: AWS Practice Lead
       time: 2020 - Present
       company: North Labs
@@ -87,6 +108,7 @@ experiences:
           - AWS Practice Lead - Focus on Engineering &amp; Partner Initiatives
           - DevOps &amp; product implementation, cloud migration, migration planning
           - Terraform/CloudFormation/AWS Well Architected Design and Implementation
+
     - role: Cloud &amp; Product Consultant
       time: 2018 - Present
       company: Self Employed
@@ -105,6 +127,7 @@ experiences:
           - Responsible for Cost Modeling, Vendor Management and forecasting market trends
           - Formed relationships with Veeam, Cloudflare, Fortigate, SuperMicro, and Qumulo through contract negotiations new product offerings
           - Managed cross-functional marketing, sales, infrastructure and ops teams
+
     - role: Principal Cloud Architect
       time: 2015 - 2019
       company: Otava LLC., Ann Arbor, MI
@@ -122,6 +145,7 @@ experiences:
           - Worked with Product to and Infrastructure to develop new product offerings
           - Achieved 100% personal quota 2015 - Q1 2019. President's Club.
           - Certified AWS
+
     - role: Solutions Architect
       time: 2013 - 2015
       company: Computex Technology Solutions, Birmigham, MI
@@ -137,6 +161,7 @@ experiences:
           - Post sales implementation of VMware, EMC, NetApp and Puppet implementations
           - Customer migrations: Brocade, Isilon, vPlex design, CX/NS - VNX, NetApp
           - Architecture &amp; design with Cisco UCS, Pure Storage, VNX, VMAX, VMware
+
     - role: Storage Architect
       time: 2010 - 2013
       company: Lear Corporation
@@ -149,6 +174,7 @@ experiences:
             VMware for multiple global projects.
           - Other projects include Qumu video broadcasting, Mobile Device Management, EMC Avamar,
             Quest Linux Authentication
+
     - role: Storage Engineer
       time: 2007 - 2010
       company: University of Michigan Health Care - MCIT
@@ -158,6 +184,7 @@ experiences:
           - Assisted in migration from Brocade storage fabric to Cisco MDS series
           - Designed and implemented HP EVA and IBM DS8300 migration
           - Daily support for IBM DS, EMC Clariion, HP EVA and SVC SAN virtualization
+
     - role: UNIX Systems Analyst / Backup Administrator
       time: 2002 - 2007
       company: DaimlerChrysler
@@ -173,19 +200,10 @@ skills:
 
     toolset:
       - name: Amazon Web Services
-        level: 85%
-
       - name: Microsoft Azure
-        level: 70%
-
+      - name: Automation
+      - name: Infrastructure as Code
       - name: SAN Storage
-        level: 95%
-
       - name: Virtualization
-        level: 95%
-
       - name: Linux
-        level: 90%
-
       - name: JavaScript / HTML / CSS
-        level: 90%
