@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Aaron Lake
-    tagline: Cloud Consultant &amp; Product Manager
+    tagline: Cloud Security Architect &amp; Product Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,19 +51,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        My 20+ year career in IT has taken a winding path. I've built a startup
-        from ground-zero using serverless AWS services, I split my startup time
-        helping a growing AWS Professional Services partner build their pre-sales
-        and product practices while leading clients down their cloud journey. I
-        built a Public Cloud practice for a traditional hosting provider, ran
-        numerous successful products from inception to MVP. I was a pre-sales 
-        Solutions Architect for 8+ years, and previous to that did everything
-        from linux administration and early-days devops to bash/Python/Ruby
-        programming/scripting.
+        My 24+ year career in IT has taken a winding path. I've built a cloud
+        security startup from ground-zero using serverless AWS services, I split
+        my startup time helping a growing AWS Professional Services partner
+        build their pre-sales and product practices while leading clients down
+        their cloud journey. I built a Public Cloud practice for a traditional
+        hosting provider, ran numerous successful products from inception to
+        MVP. I was a pre-sales Solutions Architect for 8+ years, and previous
+        to that did everything from linux administration and early-days devops
+        to bash/Python/Terraform/Golang/scripting.
 
 experiences:
-    - role: Senior Customer Solutions Architect
+    - role: Senior Technical Account Manager
       time: 2023 - present
+      company: Wiz
+      details: |
+        Serve as a East Majors/Enterprise TAM. Assist customers with onboarding,
+        troubleshooting and foster product adoption.
+
+    - role: Senior Customer Solutions Architect
+      time: 2023 - 2023
       company: AHEAD
       details: |
         Serve as a pre-sales technical architect working within the Michigan 
